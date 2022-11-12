@@ -23,7 +23,7 @@ Usage of pc_wxapkg_decrypt.exe:
 
 wxapkg路径为：C:\Users\xxxx\Documents\WeChat Files\Applet\\**wx2xxx84w9w7a3xxxx**\\\__APP__.wxapkg,小程序id为：wx2xxx84w9w7a3xxxx
 
-解密完成后，就可以用wxappUnpacker（https://github.com/gudqs7/wxappUnpacker）解包了。
+解密完成后，就可以用wxappUnpacker（https://github.com/21888/wxappUnpacker）解包了。
 ## 原理
 PC端微信把wxapkg给加密，加密后的文件的起始为**V1MMWX**。
 
